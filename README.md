@@ -67,7 +67,7 @@
 </ul>
 
 <h1>Battle #7 - Backface</h1>
-  <img src="https://user-images.githubusercontent.com/84593675/165557616-30902361-764c-459e-a9a1-0249ff4f09c0.png">
+  <img src="https://user-images.githubusercontent.com/84593675/165581699-99ea82a2-adb9-4b75-9250-d318385b2fe7.png">
 <ul style="list-style-type:none;">
   <li>#33 - Birdie</li>
   <li>#34 - Christmas Tree</li>
@@ -81,7 +81,7 @@
 </ul>
 
 <h1>Battle #8 - Transition</h1>
-  <img src="https://user-images.githubusercontent.com/84593675/165557629-90f8cf6f-e4d6-4caa-86e3-0bb2674de8f9.png">
+  <img src="https://user-images.githubusercontent.com/84593675/165581945-1fe889e0-0690-441a-bb79-1b288ca6f6cd.png">
 
 <ul style="list-style-type:none;">
   <li>#42 - Baby</li>
@@ -89,6 +89,13 @@
   <li>#44 - Stripes</li>
 </ul>
 
+ <h1>Battle #9 - Margin</h1>
+  <img src="https://user-images.githubusercontent.com/84593675/165583255-88e11987-ea6b-4284-803e-0996fc0267ff.png">
+
+<ul style="list-style-type:none;">
+  <li>#45 - Magical Tree</li>
+  <li>#43 - Mountains</li>
+</ul>
 
 
 </body>
