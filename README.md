@@ -7,7 +7,7 @@
 <ul style="list-style-type:none;">
   <li>#1 - Simply Square</li>
   <li>#2 - Carrom</li>
- <li><a href="https://github.com/quinnsab/cssBattle/blob/main/%233%20-%20Push%20Button">#3 - Push Button</a></li> 
+  <li><a href="https://github.com/quinnsab/cssBattle/blob/main/%233%20-%20Push%20Button">#3 - Push Button</a></li>
   <li><a href="https://cssbattle.dev/play/4">#4 - Ups n Downs</a> <a href="https://dev.to/pheeria/css-battle-4-ups-n-downs-46i5">(Instructions)</a></li>
   <li>#5 - Acid Rain</li>
   <li>#6 - Missing Slice</li>
@@ -28,15 +28,15 @@
   <li>#16 - Eye of The Tiger</li>
   <li>#17 - Fidget Spinner</li>
   <li>#18 - Matrix</li>
-  </ul>
+</ul>
 
 <h1>Battle #3 - Cursor</h1>
-  <img src="https://user-images.githubusercontent.com/84593675/165557408-30f705fa-817c-4b41-a1f9-e9b60a27e130.png">
+  <img src="https://user-images.githubusercontent.com/84593675/165599285-ca578b30-ccb4-47d8-880c-de933dbf405a.png">
 
 <ul style="list-style-type:none;">
   <li>#19 - Cube</li>
   <li>#20 - Ticket</li>
-  </ul>
+</ul>
 
 <h1>Battle #4 - Display</h1>
   <img src="https://user-images.githubusercontent.com/84593675/165557531-773091ec-73bb-4b2f-a51e-8c289e419925.png">
@@ -49,10 +49,10 @@
  <li>#26 - Smiley</li>
  <li>#27 - Lock Up</li>
  <li>#28 - Cups & Balls</li>
-  </ul>
+</ul>
 
 <h1>Battle #5 - Inline</h1>
-  <img src="https://user-images.githubusercontent.com/84593675/165557570-4bff1d1e-f9a7-488c-b299-b8b3a84b57bf.png">
+  <img src="https://user-images.githubusercontent.com/84593675/165599364-735aeaf8-60ef-4ccd-93b9-f89967aee680.png">
 
 <ul style="list-style-type:none;">
   <li>#29 - Suffocate</li>
@@ -60,7 +60,7 @@
 </ul>
 
 <h1>Battle #6 - Conic</h1>
-  <img src="https://user-images.githubusercontent.com/84593675/165557588-78e0df2f-7b21-4bbb-8e14-b2fccd69500d.png">
+  <img src="https://user-images.githubusercontent.com/84593675/165599435-be1f77a2-d7e2-4909-a6ac-01da49e4a3b0.png">
 <ul style="list-style-type:none;">
   <li>#31 - Equals</li>
   <li>#32 - Band-aid</li>
@@ -81,7 +81,7 @@
 </ul>
 
 <h1>Battle #8 - Transition</h1>
-  <img src="https://user-images.githubusercontent.com/84593675/165581945-1fe889e0-0690-441a-bb79-1b288ca6f6cd.png">
+  <img src="https://user-images.githubusercontent.com/84593675/165599493-b79f9dff-b558-4579-afb7-50dec765b96a.png">
 
 <ul style="list-style-type:none;">
   <li>#42 - Baby</li>
@@ -89,13 +89,15 @@
   <li>#44 - Stripes</li>
 </ul>
 
+
  <h1>Battle #9 - Margin</h1>
-  <img src="https://user-images.githubusercontent.com/84593675/165583255-88e11987-ea6b-4284-803e-0996fc0267ff.png">
+  <img src="https://user-images.githubusercontent.com/84593675/165599849-4eb3887b-25f4-4d79-b4f3-8b0fcbb0a17b.png">
 
 <ul style="list-style-type:none;">
   <li>#45 - Magical Tree</li>
-  <li>#43 - Mountains</li>
+  <li>#46 - Mountains</li>
 </ul>
+
 
 
 </body>
