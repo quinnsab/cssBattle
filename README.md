@@ -7,8 +7,8 @@
 <ul style="list-style-type:none;">
   <li>#1 - Simply Square</li>
   <li>#2 - Carrom</li>
-  <li>#3 - Push Button</li>
-  <li>#4 - Ups n Downs</li>
+  <li>#3 - Push Button</li> 
+  <li><a href="https://cssbattle.dev/play/4">#4 - Ups n Downs</a> <a href="https://dev.to/pheeria/css-battle-4-ups-n-downs-46i5">(Instructions)</a></li>
   <li>#5 - Acid Rain</li>
   <li>#6 - Missing Slice</li>
   <li>#7 - Leafy Trail</li>
