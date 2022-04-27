@@ -1,0 +1,33 @@
+<div id="rect">
+  <div id="circle"></div>
+  </div>
+<div id="outer"></div>
+<div id="inner"></div>
+<style>
+  body{
+    background-color: #6592CF;
+    margin: 0;
+  }
+  #rect {
+    margin: 75px 50px;
+    width: 300px;
+    height: 150px;
+    background: #243D83;
+  	display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #circle{
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    background: #EEB850;
+    margin: 50px auto;
+    box-shadow: 0 0 0 50px #243D83, 0 0 0 100px #6592CF;
+    
+  }
+ 
+    
+  }
+ </style>
+
