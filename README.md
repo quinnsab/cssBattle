@@ -12,7 +12,7 @@
   <li><a href="https://github.com/quinnsab/cssBattle/blob/main/acidRain">#5 - Acid Rain</a></li>
  <li><a href="https://github.com/quinnsab/cssBattle/blob/main/missingSlice">#6 - Missing Slice</a></li>
  <li><a href="https://github.com/quinnsab/cssBattle/blob/main/leafyTrail">#7 - Leafy Trail</a></li>
- <li><a href="https://github.com/quinnsab/cssBattle/blob/main/forkingCrazy">#8 - Forking Crazy</a></li>
+ <li><a href="https://github.com/quinnsab/cssBattle/blob/main/forkingCrazy">#8 - Forking Crazy</a></li> <a href="https://dev.to/pheeria/css-battle-8-forking-crazy-2i8n">alternative solution with flex</a>
   <li>#9 - Tesseract</li>
   <li>#10 - Cloaked Spirits</li>
   <li>#11 - Eye of Sauron</li>
