@@ -10,7 +10,7 @@
   <li><a href="https://github.com/quinnsab/cssBattle/blob/main/%233%20-%20Push%20Button">#3 - Push Button</a></li>
   <li><a href="https://github.com/quinnsab/cssBattle/blob/main/upsNDowns">#4 - Ups n Downs</a> <a href="https://dev.to/pheeria/css-battle-4-ups-n-downs-46i5">(Instructions)</a></li>
   <li><a href="https://github.com/quinnsab/cssBattle/blob/main/acidRain">#5 - Acid Rain</a></li>
-  <li>#6 - Missing Slice</li>
+ <li><a href="https://github.com/quinnsab/cssBattle/blob/main/missingSlice">#6 - Missing Slice</a></li>
   <li>#7 - Leafy Trail</li>
   <li>#8 - Forking Crazy</li>
   <li>#9 - Tesseract</li>
